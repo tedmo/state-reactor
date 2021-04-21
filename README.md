@@ -1,4 +1,4 @@
-# statemachine
+# state-reactor
 
 This library is a sort of hybrid implementation of the state pattern and a state machine.  The intention is to provide a simple way of reacting to events based on the current state of some domain model.
 
